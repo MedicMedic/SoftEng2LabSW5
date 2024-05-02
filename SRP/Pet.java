@@ -7,14 +7,4 @@ public class Pet
     {
         this.pet = pet;
     }
-
-    public void makeSound()
-    {
-        pet.makeSound();
-    }
-
-    public void eat()
-    {
-        pet.eat();
-    }
 }
